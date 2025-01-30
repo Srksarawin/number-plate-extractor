@@ -5,3 +5,4 @@ The **Number Plate Extractor (NPE)** is used to extract the details of the Numbe
 
 ## Samples
 
+![screenshot](samples/image2.jpg)
