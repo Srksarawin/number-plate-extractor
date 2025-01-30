@@ -1,5 +1,1 @@
 streamlit
-google.generativeai
-PIL
-pdf2image
-os
